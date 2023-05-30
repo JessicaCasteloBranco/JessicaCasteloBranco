@@ -11,7 +11,7 @@ Oie sou a Jessie!
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jess" height="150" style="border-radius:50px;" src="[https://drive.google.com/file/d/1h9mdQqqZWr3Iz0x_SqlM_BqhfZJJ34ER/view?usp=share_link](https://cdn.discordapp.com/attachments/1112754420141281446/1113171460505219112/download20230500214711.png)">
+  <img align="right" alt="Jess" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1112754420141281446/1113171460505219112/download20230500214711.png">
 </div>
   
   ##
